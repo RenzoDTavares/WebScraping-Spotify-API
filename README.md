@@ -1,4 +1,4 @@
-<h1>WebScraping with Spotify API</h1>
+<h1>WebScraping with Spotify API 🎵</h1>
 
 This repository uses the interaction entre APIS using the package BeautifulSoup to get all the top 100 musics of a specific date, on the site https://www.billboard.com/charts/hot-100 and create a particular playlist on spotify with the same top 100 musics that the user asked for.
 
