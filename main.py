@@ -17,8 +17,8 @@ date = input("What time do you want to travel? Format YYYY-MM-DD: ")
 list_of_musics = get_data(date)
 
 # Spotipy API
-client_id = 'b5453d04bffd49399d37ea9644b554b3'
-client_secret = 'b13f6c0781f7467b952bdee78c6df493'
+client_id = 'YOUR ID'
+client_secret = 'YOUR SECRET KEY'
 
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
